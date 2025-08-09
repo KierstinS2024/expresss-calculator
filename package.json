@@ -1,0 +1,21 @@
+{
+  "name": "expresss-calculator",
+  "version": "1.0.0",
+  "description": "For this exercise, you will build an Express.js application that performs three statistical operations given an arbitrary amount of numbers:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KierstinS2024/expresss-calculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/KierstinS2024/expresss-calculator/issues"
+  },
+  "homepage": "https://github.com/KierstinS2024/expresss-calculator#readme"
+}
